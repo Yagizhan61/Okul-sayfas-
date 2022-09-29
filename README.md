@@ -1,1 +1,2 @@
-# Okul-sayfas-
+Okul İle ilgili kodlamadır.
+Teşkkürler:)
